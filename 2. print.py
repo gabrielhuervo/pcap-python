@@ -1,1 +1,0 @@
-print("\"Estou\"\n\"\"aprendendo\"\"\n\"\"\"Python\"\"\"")
