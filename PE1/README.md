@@ -25,4 +25,4 @@ Aqui estão listados todos os projetos criados no curso Python Essentials 1 da C
 [4.3.1.7 LAB: How many days: writing and using your own functions](https://github.com/gabrielhuervo/pcap-python/commit/97bf91c6bb651ef4f6c5e6436c42bdc63c0e7865)    <br>
 [4.3.1.8 LAB: Day of the year: writing and using your own functions](https://github.com/gabrielhuervo/pcap-python/commit/a81f75d26eee1484504f31d63b540a405fc53bc2)     <br>
 [4.3.1.9 LAB: Prime numbers - how to find them](https://github.com/gabrielhuervo/pcap-python/commit/6604ac5f30e2a7f12b2eeb379770c9b8339a54fe)     <br>
-[4.6.2.1 PROJECT: Tic-Tac-Toe] (https://github.com/gabrielhuervo/pcap-python/commit/1d3438d573edc5a436d783727dc82d1a74c11b4a)
+[4.6.2.1 PROJECT: Tic-Tac-Toe](https://github.com/gabrielhuervo/pcap-python/commit/1d3438d573edc5a436d783727dc82d1a74c11b4a)
