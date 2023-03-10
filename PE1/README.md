@@ -1,5 +1,5 @@
 # Python Essentials 1 (PE1) - BASICS
-Aqui estão listados todos os projetos criados no curso Python Essentials 1 da Cisco Networking Academy.
+Here is a list of all the projects created in the Python Essentials 1 course from Cisco Networking Academy.
 
 
 > [2.1.1.18 LAB: The print() function](https://github.com/gabrielhuervo/pcap-python/commit/a1bac28020d17ecf6ece10c637694445253727fa)     <br>
